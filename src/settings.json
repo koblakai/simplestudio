@@ -1,0 +1,11 @@
+{
+  "studioName": "",
+  "locations": [],
+  "rooms": [],
+  "pricing": [],
+  "socialMedia": [],
+  "paymentProcessor": "stripe",
+  "enableBlog": false,
+  "enableShop": false,
+  "hasMultipleLocations": false
+}
